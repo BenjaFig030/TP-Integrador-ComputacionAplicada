@@ -2,8 +2,9 @@
 Trabajo Práctico Integrador - Computación Aplicada - Universidad de Palermo. Benjamin Figueroa
 
 **Materia:** Computación Aplicada  
-**Profesor:** Alberto Deluca 
-**Alumno:** Benjamin Figueroa  
+**Profesor:** Alberto Deluca
+
+**Participante/Alumno:** Benjamin Figueroa  
 **Legajo:** 0153069
 **Año:** 2025
 
